@@ -1,4 +1,4 @@
-# Golang-Algorithm
+# Golang-Recipe
 
 ## Datastructures
 
