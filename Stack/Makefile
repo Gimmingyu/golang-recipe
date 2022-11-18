@@ -9,7 +9,7 @@ BUILD_OUTPUT = daemon
 all: build
 
 build:
-	@echo "\033[92mBuild linked list daemon...\033[0m"
+	@echo "\033[92mBuild stack daemon...\033[0m"
 	@go build -o $(BUILD_DIR)/$(BUILD_OUTPUT) $(BUILD_TARGET)
 
 clean:
